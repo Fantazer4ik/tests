@@ -13,7 +13,7 @@ public class HeadFirstShuffle {
             }
             if (x == 1){
                 System.out.print("d");
-                x = x-1;
+                x = x - 1 ;
             }
         }
 
